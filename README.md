@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AmieeZou
-- 👀 I’m interested in Netflix, Barnes and Nobles, cooking and hibernating
-- 🌱 I’m currently learning (???)
-- 💞️ I’m looking to collaborate on (???)
-- 📫 How to reach me ...
+- 👀 I’m interested in watching TV shows, espeically from Netfelix, going to Barnes and Nobles on the weekend, cooking from new receipes and hibernating (?)
+- 🌱 I’m currently learning Python and Java!
+- 💞️ I’m looking to collaborate on Python and Panda projects! DM me if you are interested!
+- 📫 My email: amieezou@gmail.com
 
 <!---
 AmieeZou/AmieeZou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
