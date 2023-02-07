@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmieeZou
 - 👀 I’m interested in watching TV shows, espeically from Netfelix, going to Barnes and Nobles on the weekend, cooking from new receipes and hibernating (?)
-- 🌱 I’m currently learning Python and Java!
+- 🌱 I’m currently learning R!
 - 💞️ I’m looking to collaborate on Python and Pandas projects! DM me if you are interested!
 - 📫 My email: amieezou@gmail.com
 
